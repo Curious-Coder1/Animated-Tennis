@@ -28,5 +28,5 @@ Customization
 Colors: Change the background property for .ball, .ball2, .ball3, and body.
 Animation Speed/Timing: Modify the duration (1.5s) or timing function (linear) in the animation properties. Adjust @keyframes percentages or transform values to alter the animation behavior.
 Ball Size/Shadow Size: Change width and height properties for ball and shadow classes. Remember to adjust seam pseudo-element positioning if ball size changes significantly.
-Number of Balls: Add or remove the div blocks (e.g., <div class="centerN"><div class="ballN"></div><div class="shadowN"></div></div>) in index.html and create corresponding CSS rules with unique positioning and potentially different animations or colors.
+Number of Balls: Add or remove the div blocks in index.html and create corresponding CSS rules with unique positioning and potentially different animations or colors.
 Positioning: Adjust top, left, and right properties for .center, .center2, and .center3 to change where the balls are displayed.
